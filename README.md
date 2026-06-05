@@ -4,6 +4,8 @@
 
 An open attempt at reproducing Google's Genie API at the lowest cost possible.
 
+Please see below for a list of wanted contributions!
+
 </div>
 
 
