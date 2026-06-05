@@ -20,7 +20,7 @@ The aim is to:
 
 https://github.com/user-attachments/assets/31147125-adc8-498a-8437-47efb882ea11
 
-A 25-second clip of a claymation character walking forward through a forest. We steer the model to ask for humans walking across at the t=15s point.
+A 25-second clip of a claymation character walking forward through a forest. We steer the model to ask for humans walking across at the t=10s point.
 
 
 An realtime 576p15 LTX2.3-distilled runtime and serverstack, optimized for serving on an H100, aggressive caching, fused kernels, and diffusion-forcing style latent token continuation for unbounded duration videos.
