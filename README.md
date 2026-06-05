@@ -1,4 +1,11 @@
+<div align = center>
+  
+<img width="500" height="500" alt="OpenGenie (1)" src="https://github.com/user-attachments/assets/6c05c0df-f592-412d-b1d7-1e3eed00ef82" />
+
 An open attempt at reproducing Google's Genie API at the lowest cost possible.
+
+</div>
+
 
 https://github.com/user-attachments/assets/31147125-adc8-498a-8437-47efb882ea11
 
